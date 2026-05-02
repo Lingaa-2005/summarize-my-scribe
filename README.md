@@ -18,10 +18,4 @@ An AI-powered app that converts meeting audio into:
 - Tailwind CSS
 
 ## 📸 Screenshots
-(Add images)
-
-## 🎥 Demo
-(Add Loom link)
-
-## 🧠 AI Logs
-(Add prompt examples)
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/6bd03de3-52dd-4c0f-b393-a3727cc2d915" />
